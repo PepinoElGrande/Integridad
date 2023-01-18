@@ -1,0 +1,15 @@
+nombre :pepe
+apellidos :pp
+direccion :pp
+telefono :33
+nombre :uu
+apellidos :uu
+direccion :uu
+telefono :uu
+
+Wed Jan 18 17:06:39 CET 2023;pepe;admin;listarContacto()
+Wed Jan 18 17:09:42 CET 2023;pepe;admin;listarContacto()
+nombre :pepe
+apellidos :ee
+direccion :oo
+telefono :55
